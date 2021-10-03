@@ -39,5 +39,4 @@ Thursdays are the most popular days to usage
 
 In gerenal, males were the primary users of Citibikes during weekday commutes in the morning and evening. Further analysis is necessary to determine the success of the Citibikes in Des Moines, Iowa.
 
-Full Proposal via Tableau Story
-https://public.tableau.com/app/profile/aitor7447/viz/Module14Challenge_16332481502880/Dashboard?publish=yes
+[Full Proposal via Tableau Story](https://public.tableau.com/app/profile/aitor7447/viz/Module14Challenge_16332481502880/Dashboard?publish=yes)
