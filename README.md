@@ -15,10 +15,29 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 There was a total of 2,344,224 trips in the month of August.
 
+![](https://github.com/Aitorgoyare/bikesharing/blob/main/Screen%20Shot%202021-10-03%20at%204.17.57%20AM.png)
 
+Majority of rentals are less than 30 minutes
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
+![](https://github.com/Aitorgoyare/bikesharing/blob/main/Screen%20Shot%202021-10-03%20at%204.18.12%20AM.png)
+
+Males are a much larger portion of the bike rentals
+
+![](https://github.com/Aitorgoyare/bikesharing/blob/main/Screen%20Shot%202021-10-03%20at%204.18.21%20AM.png)
+
+Peak time of usage is during commute time and weekdays
+
+![](https://github.com/Aitorgoyare/bikesharing/blob/main/Screen%20Shot%202021-10-03%20at%204.19.08%20AM.png)
+
+Men and commute times represent the peak of bike use
+
+![](https://github.com/Aitorgoyare/bikesharing/blob/main/Screen%20Shot%202021-10-03%20at%204.19.26%20AM.png)
+
+Thursdays are the most popular days to usage
+
 ##Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+In gerenal, males were the primary users of Citibikes during weekday commutes in the morning and evening. Further analysis is necessary to determine the success of the Citibikes in Des Moines, Iowa.
+
+Full Proposal via Tableau Story
+https://public.tableau.com/app/profile/aitor7447/viz/Module14Challenge_16332481502880/Dashboard?publish=yes
